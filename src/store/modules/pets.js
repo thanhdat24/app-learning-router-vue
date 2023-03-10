@@ -35,7 +35,8 @@ const state = function () {
       {
         name: "BaoBao",
         type: "Báo",
-        image: "https://i.ytimg.com/vi/g6antdhmc54/maxresdefault.jpg",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg",
         description:
           "Some quick example text to build on the card title and make up the bulk of the card's content.",
       },
